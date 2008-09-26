@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: rlecour
 Donate link: http://www.richardsramblings.com/donate/
-Tags: google, seo, ads, html, pages, comments, posts
-Requires at least: 2.0.0
+Tags: google, seo, ads, pages, comments, posts
+Requires at least: 2.1.2
 Tested up to: 2.6.2
 Stable tag: 1.00
 
