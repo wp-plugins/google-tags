@@ -2,7 +2,7 @@
 /*
 Plugin Name: Google Tags
 Plugin URI: http://www.richardsramblings.com/plugins/wp-google-tags/
-Description: Puts Google Ads section targeting tags around your pages, posts, and comments.
+Description: Puts hidden Google Ads section tags around your pages, posts, and comments, allowing Google to display more relevant ads.
 Version: 1.00
 Author: Richard D. LeCour
 Author URI: http://www.richardsramblings.com/
