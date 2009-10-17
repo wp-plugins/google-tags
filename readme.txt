@@ -3,7 +3,7 @@ Contributors: rlecour
 Donate link: http://www.richardsramblings.com/donate/
 Tags: google, seo, ads, pages, comments, posts
 Requires at least: 2.1.2
-Tested up to: 2.6.2
+Tested up to: 2.8.4
 Stable tag: 1.00
 
 
