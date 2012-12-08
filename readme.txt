@@ -3,7 +3,7 @@ Contributors: rlecour
 Donate link: http://www.richardsramblings.com/donate/
 Tags: google, seo, ads, pages, comments, posts
 Requires at least: 2.1.2
-Tested up to: 2.8.4
+Tested up to: 3.4.2
 Stable tag: 1.00
 
 
@@ -20,7 +20,7 @@ Visit the plugin homepage for more information, usage, and release notes.
 == Installation ==
 
 1. Copy all the files into a "wp-content/plugins/google-tags/" directory.
-1. Activate the plugin in the WordPress Plugin Admin panel.
+2. Activate the plugin in the WordPress Plugin Admin panel.
 
 Visit [Richard's Ramblings][rr] for more information and options.
 
